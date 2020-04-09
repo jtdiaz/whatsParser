@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="whatsParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/whatsParser_jar</output-path>
+    <root id="archive" name="whatsParser.jar">
+      <element id="module-output" name="whatsParser" />
+    </root>
+  </artifact>
+</component>

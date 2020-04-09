@@ -1,5 +1,5 @@
 import java.io.File;
-import java.io.FileNotFoundException;  // Import this class to handle errors
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.FileWriter;
 import java.io.IOException;
